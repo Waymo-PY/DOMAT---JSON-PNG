@@ -1,7 +1,8 @@
-DOMAT-JSON.py READ ME
-
 CLI aplikace pro spouštění z CMD
 
-Pro vygenerování Grafu z JSON datasetu stačí spustit ve složce s JSON soubory
-
+SPUŠTĚNÍ PROGRAMU:
+Pro vygenerování Grafu stačí spustit ve složce s JSON soubory.
+-
 Program automaticky načte všechny soubory s názvem dataset_xx.json a vygeneruje soubor Graphs.png
+-
+Pokud nejsou JSON datasety vloženy do složky vypíše chybu Error: no JSON files ready to convert.
