@@ -1,0 +1,152 @@
+[
+    {
+        "timestamp": "2026-10-01T06:00:00Z",
+        "inverterTemperature": 21.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.60, "MPP2": 3.00 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:01:01Z",
+        "inverterTemperature": 21.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.68, "MPP2": 2.92 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:02:00Z",
+        "inverterTemperature": 21.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.75, "MPP2": 2.85 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:03:01Z",
+        "inverterTemperature": 21.9,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.82, "MPP2": 2.79 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:04:00Z",
+        "inverterTemperature": 22.4,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.90, "MPP2": 2.70 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:05:01Z",
+        "inverterTemperature": 22.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 0.98, "MPP2": 2.62 },
+        "instructionErrors": [
+            {
+                "timestamp": "2026-10-01T06:05:01Z",
+                "errorMessage": "Low DC voltage detected"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-10-01T06:06:00Z",
+        "inverterTemperature": 23.3,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.05, "MPP2": 2.55 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:07:01Z",
+        "inverterTemperature": 23.7,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.12, "MPP2": 2.48 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:08:00Z",
+        "inverterTemperature": 24.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.20, "MPP2": 2.39 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:09:01Z",
+        "inverterTemperature": 24.8,
+        "outflowEnabled": false,
+        "strings": { "MPP1": 1.28, "MPP2": 2.31 },
+        "instructionErrors": [
+            {
+                "timestamp": "2026-10-01T06:09:01Z",
+                "errorMessage": "Communication timeout with inverter"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-10-01T06:10:00Z",
+        "inverterTemperature": 25.3,
+        "outflowEnabled": false,
+        "strings": { "MPP1": 1.36, "MPP2": 2.24 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:11:00Z",
+        "inverterTemperature": 25.9,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.45, "MPP2": 2.15 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:12:01Z",
+        "inverterTemperature": 26.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.54, "MPP2": 2.06 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:13:00Z",
+        "inverterTemperature": 27.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.63, "MPP2": 1.98 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:14:01Z",
+        "inverterTemperature": 27.6,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.72, "MPP2": 1.90 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:15:00Z",
+        "inverterTemperature": 28.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.82, "MPP2": 1.82 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:16:01Z",
+        "inverterTemperature": 28.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.92, "MPP2": 1.72 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:17:00Z",
+        "inverterTemperature": 29.4,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.02, "MPP2": 1.62 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:18:01Z",
+        "inverterTemperature": 30.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.12, "MPP2": 1.52 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-01T06:19:00Z",
+        "inverterTemperature": 30.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.20, "MPP2": 1.45 },
+        "instructionErrors": []
+    }
+]

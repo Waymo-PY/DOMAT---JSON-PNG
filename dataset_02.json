@@ -1,0 +1,152 @@
+[
+    {
+        "timestamp": "2026-10-08T13:00:00Z",
+        "inverterTemperature": 42.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.90, "MPP2": 0.70 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:01:00Z",
+        "inverterTemperature": 41.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.82, "MPP2": 0.76 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:02:01Z",
+        "inverterTemperature": 41.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.74, "MPP2": 0.83 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:03:00Z",
+        "inverterTemperature": 41.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.66, "MPP2": 0.90 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:04:01Z",
+        "inverterTemperature": 40.9,
+        "outflowEnabled": false,
+        "strings": { "MPP1": 2.57, "MPP2": 0.98 },
+        "instructionErrors": [
+            {
+                "timestamp": "2026-10-08T13:04:01Z",
+                "errorMessage": "Grid synchronization failed"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-10-08T13:05:00Z",
+        "inverterTemperature": 40.6,
+        "outflowEnabled": false,
+        "strings": { "MPP1": 2.48, "MPP2": 1.05 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:06:01Z",
+        "inverterTemperature": 40.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.40, "MPP2": 1.12 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:07:00Z",
+        "inverterTemperature": 39.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.30, "MPP2": 1.20 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:08:01Z",
+        "inverterTemperature": 39.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.20, "MPP2": 1.30 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:09:00Z",
+        "inverterTemperature": 39.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.10, "MPP2": 1.40 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:10:00Z",
+        "inverterTemperature": 38.6,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 2.00, "MPP2": 1.50 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:11:01Z",
+        "inverterTemperature": 38.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.90, "MPP2": 1.60 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:12:00Z",
+        "inverterTemperature": 37.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.80, "MPP2": 1.70 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:13:01Z",
+        "inverterTemperature": 37.4,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.70, "MPP2": 1.80 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:14:00Z",
+        "inverterTemperature": 37.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.60, "MPP2": 1.90 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:15:01Z",
+        "inverterTemperature": 36.5,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.50, "MPP2": 2.00 },
+        "instructionErrors": [
+            {
+                "timestamp": "2026-10-08T13:15:01Z",
+                "errorMessage": "Temperature sensor unavailable"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-10-08T13:16:00Z",
+        "inverterTemperature": 36.0,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.40, "MPP2": 2.10 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:17:00Z",
+        "inverterTemperature": 35.6,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.30, "MPP2": 2.20 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:18:01Z",
+        "inverterTemperature": 35.2,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.20, "MPP2": 2.30 },
+        "instructionErrors": []
+    },
+    {
+        "timestamp": "2026-10-08T13:19:00Z",
+        "inverterTemperature": 34.8,
+        "outflowEnabled": true,
+        "strings": { "MPP1": 1.10, "MPP2": 2.40 },
+        "instructionErrors": []
+    }
+]
